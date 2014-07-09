@@ -1,4 +1,4 @@
-# nsc++ client deb packaging
+# NSClient++ deb packaging (beta)
 
 build dependencies:
 
